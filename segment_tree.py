@@ -2,7 +2,7 @@
 """
 Created on Mon Feb 18 09:21:37 2019
 
-@author: YS
+@author: cosmic
 """
 import math
 class segmentTree:
