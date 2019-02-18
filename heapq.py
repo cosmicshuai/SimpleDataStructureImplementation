@@ -2,7 +2,7 @@
 """
 Created on Fri Feb 15 09:17:47 2019
 
-@author: YS
+@author: cosmic
 """
 
 class Myheap(object):
